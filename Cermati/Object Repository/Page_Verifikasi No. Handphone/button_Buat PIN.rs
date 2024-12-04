@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Buat PIN</name>
+   <tag></tag>
+   <elementGuidId>e3db1f8f-bca8-4f45-a5b6-82b9fb1770a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn_SGZcZ.btn-track.btn--action_kallT.modal__footer--confirm_jBuPe</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0a7bc765-db32-4a22-a613-83e5c0493940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-button-name</name>
+      <type>Main</type>
+      <value>create-pin</value>
+      <webElementGuid>c7d0ce00-0d3b-4d11-8bcc-10fae283748f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn_SGZcZ btn-track btn--action_kallT modal__footer--confirm_jBuPe</value>
+      <webElementGuid>62fa31fd-3ceb-4f5a-8831-896cd74e159d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c06c271d-e58b-4954-9088-daadd8089f5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buat PIN</value>
+      <webElementGuid>44eabd2d-926f-4644-9bf3-20b7b30ebbe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;container_Eq-qi container_IbXrf&quot;]/div[@class=&quot;container__content_PdQYv&quot;]/footer[@class=&quot;modal__footer_GFKLE&quot;]/button[@class=&quot;btn_SGZcZ btn-track btn--action_kallT modal__footer--confirm_jBuPe&quot;]</value>
+      <webElementGuid>58089c66-b4ea-42c2-b985-15f620f31e5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>e4425c21-b73f-4ef5-8e2f-eacf11ea56fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Segera buat PIN Anda demi keamanan dan kenyamanan transaksi di Cermati.'])[1]/following::button[1]</value>
+      <webElementGuid>c84372ea-1671-447e-8ed6-572a586fcd34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIN Belum Dibuat'])[1]/following::button[1]</value>
+      <webElementGuid>03132fc1-1465-4646-b2dc-bd3eb2e88a56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buat PIN']/parent::*</value>
+      <webElementGuid>4395c7b2-a6a8-4cb1-8e92-0a222fc78273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/button</value>
+      <webElementGuid>1dcddd0e-67a1-4de9-a435-49a8a3578f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Buat PIN' or . = 'Buat PIN')]</value>
+      <webElementGuid>f379db39-7d82-4b3f-b5a3-f584d915dd36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
